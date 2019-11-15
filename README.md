@@ -1,4 +1,4 @@
-# Sprint Challenge: Single Page Applications
+#  Sprint Challenge: Single Page Applications
 
 ## Rick & Morty Edition
 
@@ -27,7 +27,7 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 
 - [ ]  Explain benefit(s) using `client-side routing`?
 
-> Answer:
+> Answer: Client-side Routing updates faster because it runs the process in the browser. Faster loading speeding.
 
 ## Project Set Up
 

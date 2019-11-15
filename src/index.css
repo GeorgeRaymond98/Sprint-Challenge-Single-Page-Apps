@@ -37,3 +37,20 @@ main {
 header h1 {
   text-align: center;
 }
+.char-card {
+  display:flex;
+  flex-direction: column;
+  width: 37%;
+  align-items: center;
+  margin: 0 33%;
+  
+}
+.char-card h1 {
+  color: green;
+ }
+.search-form {
+  display: flex;
+  align-items: center;
+  width: 37%;
+}
+
